@@ -1,0 +1,6 @@
+@ProjectZeta.WebApi_HostAddress = http://localhost:5165
+
+GET {{ProjectZeta.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
